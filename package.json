@@ -1,0 +1,14 @@
+{
+  "name": "package-lock-debugging",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "package-lock-debugging-dep": "github:tjenkinson/package-lock-debugging-dep#semver:^1.0.0"
+  }
+}
